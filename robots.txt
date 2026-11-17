@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pucia-protocol.github.io/pucia/sitemap.xml
